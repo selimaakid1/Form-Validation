@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JerkDeFilet/static/css/main.50574367.chunk.css",
+    "main.js": "/JerkDeFilet/static/js/main.e31f8234.chunk.js",
+    "main.js.map": "/JerkDeFilet/static/js/main.e31f8234.chunk.js.map",
+    "runtime-main.js": "/JerkDeFilet/static/js/runtime-main.9c249f8e.js",
+    "runtime-main.js.map": "/JerkDeFilet/static/js/runtime-main.9c249f8e.js.map",
+    "static/css/2.d34346ea.chunk.css": "/JerkDeFilet/static/css/2.d34346ea.chunk.css",
+    "static/js/2.c88382cc.chunk.js": "/JerkDeFilet/static/js/2.c88382cc.chunk.js",
+    "static/js/2.c88382cc.chunk.js.map": "/JerkDeFilet/static/js/2.c88382cc.chunk.js.map",
+    "index.html": "/JerkDeFilet/index.html",
+    "precache-manifest.e62c94f007ec4ca6e0f6067271d28bab.js": "/JerkDeFilet/precache-manifest.e62c94f007ec4ca6e0f6067271d28bab.js",
+    "service-worker.js": "/JerkDeFilet/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/JerkDeFilet/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.50574367.chunk.css.map": "/JerkDeFilet/static/css/main.50574367.chunk.css.map",
+    "static/js/2.c88382cc.chunk.js.LICENSE.txt": "/JerkDeFilet/static/js/2.c88382cc.chunk.js.LICENSE.txt",
+    "static/media/JerkdeFilet1.ai.svg": "/JerkDeFilet/static/media/JerkdeFilet1.ai.d34ff811.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c249f8e.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.c88382cc.chunk.js",
+    "static/css/main.50574367.chunk.css",
+    "static/js/main.e31f8234.chunk.js"
+  ]
+}
